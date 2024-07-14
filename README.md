@@ -13,7 +13,7 @@ Requirements:
 ## Demo video
 
 ```
-link
+https://www.loom.com/share/1871aca777d4494bb258be692b54abc4
 ```
 
 ## Proposed solution
